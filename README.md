@@ -1,2 +1,10 @@
 # tabular-list-print
 Printing the given list(s) in tabular format with predefined python module sys only...
+
+You can import this file in your python script and follow the steps:
+  1. tabular-list-print.add_header(['Name', 'Surname', 'Phone'])
+  2. tabular-list-print.insert_row(['John', 'Doe', '4412579']
+  3. tabular-list-print.insert_row(['Karen', 'Smith', '4687125']
+  4. tabular-list-print.tabular_print()
+
+Boom... your list has been displayed in tabular format...
