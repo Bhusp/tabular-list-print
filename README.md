@@ -1,4 +1,4 @@
-<a href="https://lgtm.com/projects/g/Bhusp/tabular-list-print/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/Bhusp/tabular-list-print.svg?logo=lgtm&logoWidth=18"/></a>
+<a href="https://lgtm.com/projects/g/Bhusp/tabular-list-print/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/Bhusp/tabular-list-print.svg?logo=lgtm&logoWidth=18"/></a>  <a href="https://lgtm.com/projects/g/Bhusp/tabular-list-print/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/Bhusp/tabular-list-print.svg?logo=lgtm&logoWidth=18"/></a>
 # tabular-list-print
 Printing the given list(s) in tabular format with predefined python module sys only...
 
